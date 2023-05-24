@@ -1,0 +1,4 @@
+ALUR PROJECT
+- membuat use case diagram
+- membuat flowchart
+- membuat prototype
